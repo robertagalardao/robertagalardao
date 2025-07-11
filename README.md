@@ -26,7 +26,26 @@
 
 ###
 
-<p align="left">💻 Computer Science student at IFC Videira <br><br>- 🎯 Focused on becoming a Full Stack Developer <br>- 📚 🌱 Currently learning **React Native**, **C**, **Git**, and **data structures**</p>
+<p align="left">
+💻 Computer Science student at IFC Videira<br><br>
+- 🎯 Aspiring Full Stack Developer<br>
+- 🌱 Currently learning React Native, C, Git, and data structures<br>
+- ✨ I enjoy working with:<br>
+&nbsp;&nbsp;&nbsp;&nbsp;🎨 UX/UI<br>
+&nbsp;&nbsp;&nbsp;&nbsp;🖌️ Design<br>
+&nbsp;&nbsp;&nbsp;&nbsp;✅ Testing<br>
+&nbsp;&nbsp;&nbsp;&nbsp;🔍 Quality Assurance (QA)
+</p>
+
+---
+
+<p align="left">
+I love exploring different aspects of software development, from coding to design and quality.
+</p>
+
+<p align="left">
+⭐️ Thanks for visiting my profile!
+</p>
 
 ###
 
