@@ -68,7 +68,7 @@ I love exploring different aspects of software development, from coding to desig
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react native logo" />
   <img width="12" />
 
-  <img src="./assets/expologo.png" height="40" alt="expo logo" />
+  <img src="./assets/expogologo.png" height="40" alt="expo logo" />
   <img width="12" />
   
   <!-- Back-end -->
