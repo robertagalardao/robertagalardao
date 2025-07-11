@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="./assets/githhubpc.gif" alt="girl and cat" />
+  <img height="150" src="./assets/githubpc.gif" alt="girl and cat" />
 </div>
 
 ###
