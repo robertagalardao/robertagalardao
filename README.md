@@ -68,7 +68,8 @@ I love exploring different aspects of software development, from coding to desig
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react native logo" />
   <img width="12" />
 
-  <img src="https://raw.githubusercontent.com/expo/expo/main/.github/assets/expo-icon.svg" height="40" alt="expo logo" />
+  <img src="./assets/expologowebp.png" height="40" alt="expo logo" />
+  <img width="12" />
   
   <!-- Back-end -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo" />
@@ -93,7 +94,8 @@ I love exploring different aspects of software development, from coding to desig
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo" />
   <img width="12" />
 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Apache_NetBeans_Logo.svg/1024px-Apache_NetBeans_Logo.svg.png" height="40" alt="netbeans logo" />
+  <img src="./assets/netbeanslogo.png" height="40" alt="netbeans logo" />
+  <img width="12" />
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="40" alt="trello logo" />
 </div>
