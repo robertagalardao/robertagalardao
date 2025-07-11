@@ -27,7 +27,7 @@
 ###
 
 <p align="left">
-💻 Computer Science student at IFC Videira<br><br>
+💻 Computer Science student at IFC Videira.<br><br>
 - 🎯 Aspiring Full Stack Developer<br>
 - 🌱 Currently learning React Native, C, Git, and data structures<br>
 - ✨ I enjoy working with:<br>
