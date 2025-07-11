@@ -103,9 +103,8 @@ I love exploring different aspects of software development, from coding to desig
 
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/robertagalardao/robertagalardao/output/pacman-contribution-graph.svg">  
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/robertagalardao/robertagalardao/output/pacman-contribution-graph.svg">
+<picture> 
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/robertagalardao/robertagalardao/output/pacman-contribution-graph-dark.svg">
 </picture>
 
 ###
