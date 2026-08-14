@@ -28,9 +28,9 @@
 
 <p align="left">
 💻 Computer Science student at IFC Videira.<br><br>
-- 🎯 Aspiring Full Stack Developer.<br>
-- 🌱 Currently learning React Native, C, Git, and data structures.<br>
-- ✨ I enjoy building projects that combine front-end and back-end skills, coding, and problem-solving.<br>
+- 🔐 Aspiring Cybersecurity Professional.<br>
+- 🌱 Currently learning Cybersecurity, Linux, Networking, Git, and Programming.<br>
+- 🛡️ Exploring ethical hacking, penetration testing, and security fundamentals.<br>
 </p>
 
 ---
